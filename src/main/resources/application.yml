@@ -1,0 +1,5 @@
+moncash:
+  api:
+    key: "${MONCASH_API_KEY}"
+    client_id: "${MONCASH_CLIENT_ID}"
+    client_secret: "${MONCASH_CLIENT_SECRET}"
